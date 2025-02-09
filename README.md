@@ -12,8 +12,7 @@
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=閲覧数&color=0e75b6&style=flat)
 
 - 💼 **自社開発企業** で働いています
-- 🌱 最近は **Go と DevOps** を学んでいます
-- 📘 技術記事は [Zenn](https://zenn.dev/ryo_f) に投稿しています
+
 
 # 📝職務経歴書
 
@@ -34,18 +33,16 @@
 
 # 🚀 使用ツール
 
-![Go](https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 # 📘 ブログ記事
 
-- [職務経歴書を GitHub で管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
-- [Go で AWS のモックテストを書く](https://zenn.dev/ryo_f/articles/9714348cc2483b)
-- [開発における 3 種の神器](https://zenn.dev/ryo_f/articles/f63b0bffe2eb77)
-- [Docker ビルド時にプライベートリポジトリをクローンする](https://zenn.dev/ryo_f/articles/27f223203481ef)
+- [開発合宿でGCPのautoML(ベータ版)を触ってみた話](https://qiita.com/technicakidz/items/76b9d00c08c1688d6a00)
+- [Google I/O 2019 に参加しました](https://tech-magazine.opt.ne.jp/entry/2019/06/22/120000_1)
+- [(ほぼ)AWS初心者が Amplify & Chalice ハンズオンに参加した話](https://qiita.com/technicakidz/items/edfd4e9be5e34776d1f5)
+- [jupyter のススメ](https://tagayas.connpass.com/event/215023/)
 
 # 💁‍♂️ 私について
 
