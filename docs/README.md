@@ -70,7 +70,7 @@ API Gateway / CloudWatch / Cognito / ECR / ECS / EC2 / Fargate / IAM / Lambda / 
 
 #### Google Cloud
 
-BigQuery / Cloud Pub/Sub / Cloud SQL
+BigQuery / GCS / Storage Transfer Service 
 
 ### SaaS/PaaS
 
@@ -78,7 +78,7 @@ GitHub / GitHub Actions / CircleCI
 
 ### その他
 
-Slack / Google Colaboratory / GTM / GraphDB / Datadog / Docker / Terraform / Zabbix / textql / Google Workspace (Docs / Spreadsheet / Presentation) / GitHub Copilot / Gemini / ChatGPT / Claude / NotebookLM / NotionAI
+Slack / Notion / Google Colaboratory / GTM / GraphDB / Datadog / Docker / Terraform / Zabbix / textql / Google Workspace (Docs / Spreadsheet / Presentation) / GitHub Copilot / Gemini / ChatGPT / Claude / NotebookLM / NotionAI
 
 ## 技術記事
 
