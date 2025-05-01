@@ -12,8 +12,8 @@
 # 📝職務経歴書
 
 - [[WIP]サイト版](https://technicakidz.github.io/technicakidz/)
-- [PDF 版](/Users/taka/src/github.com/technicakidz/technicakidz/docs/README.pdf)
-- [Markdown 版](/Users/taka/src/github.com/technicakidz/technicakidz/docs/README.md)
+- [PDF 版](/docs/README.pdf)
+- [Markdown 版](/docs/README.md)
 
 
 
