@@ -11,7 +11,7 @@
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=閲覧数&color=0e75b6&style=flat)
 
-- 💼 **自社開発企業** で働いています
+- 💼 **デジタルマーケティング企業** で働いています
 
 
 # 📝職務経歴書
@@ -20,16 +20,7 @@
 - [PDF 版](https://github.com/technicakidz/technicakidz/releases)
 - [Markdown 版](https://github.com/technicakidz/technicakidz/blob/main/docs/README.md?plain=1)
 
-# 💰OSS スポンサー
 
-- [textlint](https://github.com/textlint/textlint)
-- [markdownlint](https://github.com/DavidAnson/markdownlint)
-
-# 🌟OSS コントリビュート
-
-- [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
-  - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
-  - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
 
 # 🚀 使用ツール
 
@@ -48,24 +39,22 @@
 
 ## ❤️ 好きなこと
 
-- 犬と触れ合うこと
-- 健康的な生活
-- ミニマリズム
+- 音楽鑑賞
 
 ## 📚 好きな書籍ランキング
 
-- 🥇[アジャイルサムライ](https://www.amazon.co.jp/dp/4274068560)
-- 🥈[コンサル一年目が学ぶこと](https://www.amazon.co.jp/dp/B00MA671WW)
-- 🥉[Web を支える技術](https://www.amazon.co.jp/dp/B07JK7FZH2)
+- 🥇[]()
+- 🥈[]()
+- 🥉[]()
 
 ## 🎥 好きな映画ランキング
 
-- 🥇[ダークナイト](https://www.netflix.com/title/70079583)
-- 🥈[ワイルド・スピード MEGA MAX](https://www.netflix.com/title/70157102)
-- 🥉[トランスフォーマー/ダークサイド・ムーン](https://www.netflix.com/title/70153859)
+- 🥇[サマーウォーズ]()
+- 🥈[]()
+- 🥉[]()
 
 ## 📺 好きなアニメランキング
 
-- 🥇[進撃の巨人](https://www.netflix.com/title/70299043)
-- 🥈[オーバーロード](https://www.netflix.com/title/80132110)
-- 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
+- 🥇[]()
+- 🥈[]()
+- 🥉[]()
