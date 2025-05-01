@@ -106,6 +106,8 @@ Slack / Notion / Google Colaboratory / GTM / GraphDB / Datadog / Docker / Terraf
 【ステークホルダー】
 
 - WEB / APPを活用するクライアント企業（マーケティング・データ・IT部門・経営層）
+- テックアセット領域の執行役員
+- 社内のプロダクトセールスメンバーやカスタマーサクセスチーム
 - 広告プラットフォームや規制機関
 
 
