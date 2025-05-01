@@ -8,64 +8,41 @@ English | [日本語](README.md)
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=view_count&color=0e75b6&style=flat)
 
-- 💼 I'm currently working at **a SaaS company**
-- 🌱 I'm currently learning **Go and DevOps**
-- 📘 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
+- 💼 I'm currently working at **a Digital Marketing Company**
 
-# 📝Resume
+# 📝 Resume
 
-- [Site](https://technicakidz.github.io/technicakidz/)
-- [PDF](https://github.com/technicakidz/technicakidz/releases)
-- [Markdown](https://github.com/technicakidz/technicakidz/blob/main/docs/README.md?plain=1)
+- [[WIP]Site](https://technicakidz.github.io/technicakidz/)
+- [PDF](/docs/README.pdf)
+- [Markdown](/docs/README.md)
 
-# 💰OSS sponsor
+# 📘 Blog Posts
 
-- [textlint](https://github.com/textlint/textlint)
-- [markdownlint](https://github.com/DavidAnson/markdownlint)
+- [Trying out GCP's autoML (Beta) at a Development Camp](https://qiita.com/technicakidz/items/76b9d00c08c1688d6a00)
+- [[Archive] I attended Google I/O 2019](https://tech-magazine.opt.ne.jp/entry/2019/06/22/120000_1)
+- [An (Almost) AWS Beginner's Experience at an Amplify & Chalice Hands-on Workshop](https://qiita.com/technicakidz/items/edfd4e9be5e34776d1f5)
+- [The Benefits of Jupyter](https://tagayas.connpass.com/event/215023/)
 
-# 🌟Contribute to OSS
+# 💁‍♂️ About Me
 
-- [textlint-rule-rousseau](https://github.com/textlint-rule/textlint-rule-rousseau)
-  - [Issue](https://github.com/textlint-rule/textlint-rule-rousseau/issues/8)
-  - [PR](https://github.com/textlint-rule/textlint-rule-rousseau/pull/10)
+## ❤️ Things I Love
 
-# 🚀 Some Tools I Use
-
-![Go](https://img.shields.io/badge/-Go-42b0a5?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-ca7d28?style=flat-square&logo=mysql&logoColor=white)
-![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-# 📘 Blog posts
-
-- [An idea to manage your resume on GitHub](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
-- [AWS mock tests in Go](https://zenn.dev/ryo_f/articles/9714348cc2483b)
-- [The three best dev apps](https://zenn.dev/ryo_f/articles/f63b0bffe2eb77)
-- [Clone private repositories at Docker build time](https://zenn.dev/ryo_f/articles/27f223203481ef)
-
-# 💁‍♂️ About me
-
-## ❤️ Love
-
-- Playing with dogs
-- Healthy Living
-- Minimalism
+- Listening to Music
 
 ## 📚 My Favorite Book Ranking
 
-- 🥇[The Agile Samurai](https://www.amazon.co.jp/dp/4274068560)
-- 🥈[What the first year of consultants learn](https://www.amazon.co.jp/dp/B00MA671WW)
-- 🥉[The Technology Behind the Web](https://www.amazon.co.jp/dp/B07JK7FZH2)
+- 🥇Clean Code
+- 🥈Knowledge Work Techniques for Engineers
+- 🥉The Structure of Learning
 
-## 🎥 My Favorite Movie Ranking
+# 🎥 My Favorite Movie Ranking
 
-- 🥇[The Dark Knight](https://www.netflix.com/title/70079583)
-- 🥈[Fast Five](https://www.netflix.com/title/70157102)
-- 🥉[Transformers: Dark of the Moon](https://www.netflix.com/title/70153859)
+- 🥇Summer Wars
+- 🥈The Girl Who Leapt Through Time
+- 🥉Winny
 
-## 📺 My Favorite Anime Ranking
+# 📺 My Favorite Anime Ranking
 
-- 🥇[Attack on Titan](https://www.netflix.com/title/70299043)
-- 🥈[Overlord](https://www.netflix.com/title/80132110)
-- 🥉[Fate/Zero](https://www.netflix.com/title/70304256)
+- 🥇Ghost in the Shell: Stand Alone Complex
+- 🥈JoJo's Bizarre Adventure
+- 🥉Haikyu!!
