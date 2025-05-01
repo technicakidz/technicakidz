@@ -1,18 +1,15 @@
+# 🚧 Work In Progress
 ![title image](image/DALL·E 2025-02-08 16.42.webp)
+![wip-badge](https://img.shields.io/badge/🚧-Work%20In%20Progress-orange)
 
 English | [日本語](README.md)
-
-[![CI](https://github.com/technicakidz/technicakidz/actions/workflows/ci.yml/badge.svg)](https://github.com/technicakidz/technicakidz/actions/workflows/ci.yml)
-[![PDF](https://github.com/technicakidz/technicakidz/actions/workflows/release-pdf.yml/badge.svg)](https://github.com/technicakidz/technicakidz/actions/workflows/release-pdf.yml)
-[![Deploy](https://github.com/technicakidz/technicakidz/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/technicakidz/technicakidz/actions/workflows/pages/pages-build-deployment)
-[![release date](https://img.shields.io/github/release-date/technicakidz/technicakidz?color=blue&logo=github)](https://github.com/technicakidz/technicakidz/releases)
 
 # ⚡️ A Few Quick Facts
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=view_count&color=0e75b6&style=flat)
 
-- 💼 I’m currently working at **a SaaS company**
-- 🌱 I’m currently learning **Go and DevOps**
+- 💼 I'm currently working at **a SaaS company**
+- 🌱 I'm currently learning **Go and DevOps**
 - 📘 I regularly write articles on [Zenn](https://zenn.dev/ryo_f)
 
 # 📝Resume
