@@ -98,7 +98,7 @@ Slack / Notion / Google Colaboratory / GTM / GraphDB / Datadog / Docker / Terraf
 
 【チーム編成】
 
-- PdM 3 名
+- PdM 2 名
 - プロダクトセールス / PjM 6 名
 - バックエンドエンジニア 3 名
 - フロントエンドエンジニア 2 名
