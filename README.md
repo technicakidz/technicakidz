@@ -28,23 +28,23 @@
 
 ## ❤️ 好きなこと
 
-- 音楽鑑賞
+- 音楽鑑賞（Perfume）
 
 ## 📚 好きな書籍ランキング
 
-- 🥇リーダブルコード
-- 🥈エンジニアのための知的生産術
-- 🥉「学び」の構造
+- 🥇[リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)
+- 🥈[エンジニアのための知的生産術](https://gihyo.jp/book/2018/978-4-7741-9876-7)
+- 🥉[「学び」の構造](https://www.toyokan.co.jp/products/277?srsltid=AfmBOorGiJGuY7RmJ3p72dS8gKnR5Nevss8nXYwRPJPLVyMNpm9btas3)
 
 # 🎥 お気に入りの映画ランキング
 
-- 🥇サマーウォーズ
-- 🥈時をかける少女
-- 🥉Winny
+- 🥇[時をかける少女](https://studiochizu.jp/works/tokiwokakerusyoujyo)
+- 🥈[Green Book](https://participant.com/campaign/green-book/)
+- 🥉[Winny](https://winny-movie.com/)
 
 # 📺 お気に入りのアニメランキング
 
-- 🥇攻殻機動隊 STAND ALONE COMPLEX
+- 🥇[攻殻機動隊 STAND ALONE COMPLEX](https://theghostintheshell.jp/series/stand_alone_complex)
 - 🥈ジョジョの奇妙な冒険
 - 🥉ハイキュー
 
