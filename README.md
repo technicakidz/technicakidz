@@ -6,7 +6,8 @@
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=閲覧数&color=0e75b6&style=flat)
 
-- 💼 **デジタルマーケティング企業** で働いています
+- 💼 コーディングテストのプロダクトで働いています
+- 💼 デジタルマーケティング企業 にいました
 
 
 # 📝職務経歴書
@@ -28,7 +29,7 @@
 
 ## ❤️ 好きなこと
 
-- 音楽鑑賞（Perfume）
+- 音楽鑑賞（Perfumeなど）
 
 ## 📚 好きな書籍ランキング
 
@@ -45,6 +46,6 @@
 # 📺 お気に入りのアニメランキング
 
 - 🥇[攻殻機動隊 STAND ALONE COMPLEX](https://theghostintheshell.jp/series/stand_alone_complex)
-- 🥈ジョジョの奇妙な冒険
-- 🥉ハイキュー
+- 🥈[ジョジョの奇妙な冒険](https://jojo-portal.com/)
+- 🥉[ハイキュー](https://baike.baidu.com/ja/item/%E3%81%8D%E3%81%9F%E3%81%97%E3%82%93%E3%81%99%E3%81%91/1451881)
 
