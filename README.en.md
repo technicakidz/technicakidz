@@ -8,13 +8,13 @@ English | [日本語](README.md)
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=view_count&color=0e75b6&style=flat)
 
-- 💼 I'm currently working at **a Digital Marketing Company**
+- 💼 I'm currently working at Givery.
+- 💼 I worked at a Digital Marketing Company. 
 
 # 📝 Resume
 
 - [[WIP]Site](https://technicakidz.github.io/technicakidz/)
 - [PDF](/docs/README.pdf)
-- [Markdown](/docs/README.md)
 
 # 📘 Blog Posts
 
@@ -27,22 +27,10 @@ English | [日本語](README.md)
 
 ## ❤️ Things I Love
 
-- Listening to Music
+- Listening to Music(Perfume)
 
 ## 📚 My Favorite Book Ranking
 
 - 🥇Clean Code
 - 🥈Knowledge Work Techniques for Engineers
 - 🥉The Structure of Learning
-
-# 🎥 My Favorite Movie Ranking
-
-- 🥇Summer Wars
-- 🥈The Girl Who Leapt Through Time
-- 🥉Winny
-
-# 📺 My Favorite Anime Ranking
-
-- 🥇Ghost in the Shell: Stand Alone Complex
-- 🥈JoJo's Bizarre Adventure
-- 🥉Haikyu!!
