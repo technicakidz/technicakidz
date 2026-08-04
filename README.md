@@ -14,8 +14,6 @@
 
 - [[WIP]サイト版](https://technicakidz.github.io/technicakidz/)
 - [PDF 版](/docs/README.pdf)
-- [Markdown 版](/docs/README.md)
-
 
 
 # 📘 ブログ記事
@@ -36,16 +34,3 @@
 - 🥇[リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)
 - 🥈[エンジニアのための知的生産術](https://gihyo.jp/book/2018/978-4-7741-9876-7)
 - 🥉[「学び」の構造](https://www.toyokan.co.jp/products/277?srsltid=AfmBOorGiJGuY7RmJ3p72dS8gKnR5Nevss8nXYwRPJPLVyMNpm9btas3)
-
-# 🎥 お気に入りの映画ランキング
-
-- 🥇[時をかける少女](https://studiochizu.jp/works/tokiwokakerusyoujyo)
-- 🥈[Green Book](https://participant.com/campaign/green-book/)
-- 🥉[Winny](https://winny-movie.com/)
-
-# 📺 お気に入りのアニメランキング
-
-- 🥇[攻殻機動隊 STAND ALONE COMPLEX](https://theghostintheshell.jp/series/stand_alone_complex)
-- 🥈[ジョジョの奇妙な冒険](https://jojo-portal.com/)
-- 🥉[ハイキュー](https://baike.baidu.com/ja/item/%E3%81%8D%E3%81%9F%E3%81%97%E3%82%93%E3%81%99%E3%81%91/1451881)
-
