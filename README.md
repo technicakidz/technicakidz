@@ -6,7 +6,7 @@
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=technicakidz&label=閲覧数&color=0e75b6&style=flat)
 
-- 💼 現在はコーディングテストのプロダクトを担当しています
+- 💼 HR企業のプロダクトチーム にいます
 - 💼 デジタルマーケティング企業 にいました
 
 
